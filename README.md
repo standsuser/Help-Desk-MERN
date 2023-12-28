@@ -94,7 +94,7 @@ Follow these steps to run the project:
 For any queries or feedback, please contact mariamalmotawally@gmail.com
 
 ---
-For a detailed demonstration of the frontend, refer to the images provided
+Detailed demonstration of the frontend:
 ---
 ![image](https://github.com/standsuser/Help-Desk-MERN/assets/34959945/ca5b28a3-132d-405b-8b2b-9b508037397d)![image](https://github.com/standsuser/Help-Desk-MERN/assets/34959945/0c18adb7-f87c-41d7-961a-76c65480b7eb)
 ![image](https://github.com/standsuser/Help-Desk-MERN/assets/34959945/8ed483f1-4f0f-4b38-974d-57a5be79d4e7)
