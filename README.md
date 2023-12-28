@@ -81,7 +81,7 @@ Follow these steps to run the project:
    npm start
    ```
 
-3. **Machine Learning Model**
+3. **Machine Learning Model for Ticket Assignment to Agents**
    ```bash
    cd Backend
    cd python
