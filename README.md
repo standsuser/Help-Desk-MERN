@@ -12,7 +12,7 @@ This project is a comprehensive Helpdesk software application developed using th
 - Node.js
 - Socket.io
 - JWT Authentication
-- 
+  
 ## Features
 
 ### 1. User Management
